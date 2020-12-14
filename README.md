@@ -15,11 +15,8 @@
   </p>
 </h2>
 <h3 align="center">:construction: Under construction :construction:</h3>
-https://i.ibb.co/qgNHWhJ/landing-1.png
-https://i.ibb.co/Dkyy63P/landing-2.png
-https://i.ibb.co/WpyZ7cB/landing-3.png
-https://i.ibb.co/z4X2jXh/landing-4.png
-https://i.ibb.co/DwjHKvL/landing-5.png
-https://i.ibb.co/WFC1y0w/landing-6.png
-https://i.ibb.co/WBzwYyn/landing-7.png
-https://i.ibb.co/T10rXzW/landing-8.png
+
+### :hearts: About
+
+**Landing Shop App** is a simple web app wich allows selling a product easily by implementing some famous payment methods. For now, the only one working is Stripe. 
+
