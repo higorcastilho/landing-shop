@@ -1,4 +1,5 @@
 # landing-shop
+<img src="https://i.ibb.co/qgNHWhJ/landing-1.png" alt="Image of web mobile friendly landing page" width="254" height="450" margin-left="10">
 
 https://i.ibb.co/qgNHWhJ/landing-1.png
 https://i.ibb.co/Dkyy63P/landing-2.png
