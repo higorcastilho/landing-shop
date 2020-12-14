@@ -1,6 +1,6 @@
 
 <h1 align="center">
-   #Landing Shop App
+   # Landing Shop App
 </h1>
 <h2 align="center">
   <p float="left">
