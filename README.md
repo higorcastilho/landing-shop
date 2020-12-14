@@ -1,6 +1,6 @@
 # landing-shop
 <h1 align="center">
-   <img alt="Proffy" src=".github/landing-shop-app.svg" height="100px">
+   Landing Shop App
 </h1>
 <h2 align="center">
   <p float="left">
