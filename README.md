@@ -6,6 +6,11 @@
     <img src=".github/landing-4.png" alt="Image of web mobile friendly landing page" width="204" height="362">
   </p>
 </h2>
+
+### :hearts: About
+
+**Landing Shop App** is a simple web app wich allows selling a product easily by implementing some famous payment methods. For now, the only one working is Stripe. 
+
 <h2 align="center">
   <p float="left">
     <img src=".github/landing-5.png" alt="Image of web mobile friendly landing page" width="204" height="362">
@@ -15,8 +20,4 @@
   </p>
 </h2>
 <h3 align="center">:construction: Under construction :construction:</h3>
-
-### :hearts: About
-
-**Landing Shop App** is a simple web app wich allows selling a product easily by implementing some famous payment methods. For now, the only one working is Stripe. 
 
