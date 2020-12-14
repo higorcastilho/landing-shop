@@ -1,4 +1,7 @@
 # landing-shop
+<h1 align="center">
+   <img alt="Proffy" src=".github/landing-shop-app.svg" height="100px">
+</h1>
 <h2 align="center">
   <p float="left">
     <img src=".github/landing-1.png" alt="Image of web mobile friendly landing page" width="204" height="362">
