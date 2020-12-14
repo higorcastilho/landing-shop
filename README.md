@@ -1,7 +1,7 @@
 # landing-shop
 <h2 align="center">
   <p float="left">
-    <img src="https://i.ibb.co/qgNHWhJ/landing-1.png" alt="Image of web mobile friendly landing page" width="204" height="362">
+    <img src=".github/landing-1.png" alt="Image of web mobile friendly landing page" width="204" height="362">
     <img src="https://i.ibb.co/Dkyy63P/landing-2.png" alt="Image of web mobile friendly landing page" width="204" height="362">
     <img src="https://i.ibb.co/WpyZ7cB/landing-3.png" alt="Image of web mobile friendly landing page" width="204" height="362">
     <img src="https://i.ibb.co/z4X2jXh/landing-4.png" alt="Image of web mobile friendly landing page" width="204" height="362">
