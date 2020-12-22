@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src=".github/landing_shop_logo.svg" alt="Image of web mobile friendly landing page" width="800" height="200">
-</h1>
-
 <h2 align="center">
   <p float="left">
     <img src=".github/landing-1.png" alt="Image of web mobile friendly landing page" width="204" height="362">
