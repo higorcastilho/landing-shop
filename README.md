@@ -9,7 +9,7 @@
 
 ### :hearts: About
 
-**Landing Shop App** is a simple web app wich allows you selling a product easily by implementing some famous payment methods. For now, the only one working is Stripe. 
+**Landing Shop App** is a simple web app which allows you selling a product easily by implementing some famous payment methods. For now, the only one working is Stripe. 
 
 <h2 align="center">
   <p float="left">
