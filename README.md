@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=".github/landing_shop_logo.png" alt="Image of web mobile friendly landing page">
+  <img src=".github/landing_shop_logo.svg" alt="Image of web mobile friendly landing page">
 </h1>
 
 <h2 align="center">
