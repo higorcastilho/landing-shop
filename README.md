@@ -1,5 +1,5 @@
 <h1 align="center">
-  Simple Landing Shop
+  <img src=".github/landing_shop_logo.png" alt="Image of web mobile friendly landing page">
 </h1>
 
 <h2 align="center">
