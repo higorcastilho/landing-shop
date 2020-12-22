@@ -1,3 +1,7 @@
+<h1 align="center">
+  Simple Landing Shop
+</h1>
+
 <h2 align="center">
   <p float="left">
     <img src=".github/landing-1.png" alt="Image of web mobile friendly landing page" width="204" height="362">
