@@ -21,8 +21,8 @@
 The **source code repositories** and the **deployed website** can be found here:
 
 - [Website](https://express-coffee-whey.netlify.app/) :arrow_upper_right: 
-- [Front-end](https://github.com/higorcastilho/coffee-landing) (How to run locally and +)
-- [Back-end](https://github.com/higorcastilho/coffee-backend) (How to run locally and +)
+- [Front-end](https://github.com/higorcastilho/coffee-landing) :eyeglasses: (How to run locally and +)
+- [Back-end](https://github.com/higorcastilho/coffee-backend) :gear: (How to run locally and +)
 
 <h2 align="center">
   <p float="left">
