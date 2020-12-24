@@ -37,8 +37,8 @@ The **source code repositories** and the **deployed website** can be found here:
 
 <h2 align="center">
   <p float="left">
-    <img src=".github/simple_project_diagram.png" alt="Image of web mobile friendly landing page" width="450" height="250">
-    <img src=".github/gtmetrix_test.png" alt="Image of web mobile friendly landing page" width="450" height="250">
+    <img src=".github/simple_project_diagram.png" alt="Image of web mobile friendly landing page" width="410" height="230">
+    <img src=".github/gtmetrix_test.png" alt="Image of web mobile friendly landing page" width="410" height="230">
   </p>
 </h2>
 
