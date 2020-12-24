@@ -45,4 +45,4 @@ The **source code repositories** and the **deployed website** can be found here:
 
 **Some strategies** to a faster page load: 
 - React.lazy and Suspense are being used to perform a faster page load.
-- SVG and WEBP extendions are prioritized.
+- SVG and WEBP extensions are prioritized.
