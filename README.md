@@ -1,3 +1,5 @@
+<h3 align="center">:construction: Under construction :construction:</h3>
+
 <h2 align="center">
   <p float="left">
     <img src=".github/landing-1.png" alt="Image of web mobile friendly landing page" width="204" height="362">
@@ -19,7 +21,13 @@
     <img src=".github/landing-8.png" alt="Image of web mobile friendly landing page" width="204" height="362">
   </p>
 </h2>
-<h3 align="center">:construction: Under construction :construction:</h3>
 
 ### :headphones: Technologies
+
+<h2 align="center">
+  <h2 align="center">
+    <img src=".github/simple_project_diagram.png" alt="Image of web mobile friendly landing page" width="360" height="200">
+  </h2>
+  <p float="left">As soon as possible</p>
+</h2>
 
