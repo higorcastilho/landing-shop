@@ -25,7 +25,7 @@
 ### :headphones: Technologies
 
 <h2 align="center">
-  <p align="left">
+  <p align="center">
     <img src=".github/simple_project_diagram.png" alt="Image of web mobile friendly landing page" width="360" height="200">
   </p>
   <p float="left">As soon as possible</p>
