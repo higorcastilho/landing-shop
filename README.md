@@ -1,5 +1,10 @@
 <h3 align="center">:construction: Under construction :construction:</h3>
 
+<p align="center">
+  <a href="#hearts-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#headphones-technologies">Technologies</a>
+</p>
+
 <h2 align="center">
   <p float="left">
     <img src=".github/landing-1.png" alt="Image of web mobile friendly landing page" width="204" height="362">
