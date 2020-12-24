@@ -42,5 +42,7 @@ The **source code repositories** and the **deployed website** can be found here:
     <img src=".github/google_speed_test.png" alt="Image of web mobile friendly landing page" width="310" height="185">
   </p>
 </h2>
+
+**Some strategies** to a faster page load: 
 - React.lazy and Suspense are being used to perform a faster page load.
 - SVG and WEBP extendions are prioritized.
