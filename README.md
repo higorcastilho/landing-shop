@@ -34,7 +34,7 @@ The **source code repositories** and the **deployed website** can be found here:
   </p>
 </h2>
 
-It has also a **dashboard page** built with Vue.js where is possible to track your sales: 
+It has also a **dashboard page** built with Vue.js where you can track your sales: 
 
 <h2 align="center">
   <p float="left">
