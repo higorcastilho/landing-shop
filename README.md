@@ -37,8 +37,8 @@ It has also a **dashboard page** built with Vue.js where is possible to track yo
 
 <h2 align="center">
   <p float="left">
-    <img src=".github/coffee_dashboard_light.png" alt="Image of web mobile friendly landing page" width="204" height="362">
-    <img src=".github/coffee_dashboard_dark.png" alt="Image of web mobile friendly landing page" width="204" height="362">
+    <img src=".github/coffee_dashboard_light.png" alt="Image of web mobile friendly landing page" width="204" height="380">
+    <img src=".github/coffee_dashboard_dark.png" alt="Image of web mobile friendly landing page" width="204" height="380">
   </p>
 </h2>
 
