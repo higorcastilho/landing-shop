@@ -22,7 +22,7 @@ The **source code repositories** and the **deployed website** can be found here:
 
 - [Website](https://express-coffee-whey.netlify.app/) :arrow_upper_right: 
 - [Landing Page (React)](https://github.com/higorcastilho/coffee-landing) :eyeglasses: (How to run locally and +)
-- [Dashboard (Vue.js)](https://github.com/higorcastilho/coffee-landing) :pencil2: (How to run locally and +)
+- [Dashboard (Vue.js)](https://github.com/higorcastilho/coffee-dashboard) :pencil2: (How to run locally and +)
 - [Back-end (Node)](https://github.com/higorcastilho/coffee-backend) :gear: (How to run locally and +)
 
 <h2 align="center">
