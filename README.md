@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="#hearts-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#headphones-technologies">Technologies</a>
+  <a href="#headphones-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#hearts-about">Acknowledgments</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2 align="center">
@@ -20,8 +21,8 @@
 The **source code repositories** and the **deployed website** can be found here:
 
 - [Website](https://express-coffee-whey.netlify.app/) :arrow_upper_right: 
-- [Front-end](https://github.com/higorcastilho/coffee-landing) (How to run locally and +)
-- [Back-end](https://github.com/higorcastilho/coffee-backend) (How to run locally and +)
+- [Front-end](https://github.com/higorcastilho/coffee-landing) :eyeglasses: (How to run locally and +)
+- [Back-end](https://github.com/higorcastilho/coffee-backend) :gear: (How to run locally and +)
 
 <h2 align="center">
   <p float="left">
@@ -32,12 +33,24 @@ The **source code repositories** and the **deployed website** can be found here:
   </p>
 </h2>
 
+It has also a **dashboard page** built with Vue.js where is possible to track your sales: 
+
+<h2 align="center">
+  <p float="left">
+    <img src=".github/landing-5.png" alt="Image of web mobile friendly landing page" width="204" height="362">
+    <img src=".github/landing-6.png" alt="Image of web mobile friendly landing page" width="204" height="362">
+  </p>
+</h2>
+
 ### :headphones: Technologies
 
 <h2 align="center">
-  <p align="center">
-    <img src=".github/simple_project_diagram.png" alt="Image of web mobile friendly landing page" width="360" height="200">
+  <p float="left">
+    <img src=".github/simple_project_diagram.png" alt="Image of web mobile friendly landing page" width="410" height="230">
+    <img src=".github/gtmetrix_test.png" alt="Image of web mobile friendly landing page" width="410" height="230">
   </p>
-  <p float="left">As soon as possible</p>
 </h2>
 
+**Some strategies** to a faster page load: 
+- React.lazy and Suspense are being used to perform a faster page load.
+- SVG and WEBP extensions are prioritized.
