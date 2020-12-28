@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#hearts-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#headphones-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#hearts-about">Acknowledgments</a>&nbsp;&nbsp;&nbsp;
+  <a href="#pray-acknowledgments">Acknowledgments</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2 align="center">
@@ -55,3 +55,5 @@ It has also a **dashboard page** built with Vue.js where you can track your sale
 **Some strategies** to a faster page load: 
 - React.lazy and Suspense are being used to perform a faster page load.
 - SVG and WEBP extensions are prioritized.
+
+### :pray: Acknowledgments
