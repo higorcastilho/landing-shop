@@ -33,6 +33,15 @@ The **source code repositories** and the **deployed website** can be found here:
   </p>
 </h2>
 
+It has also a **dashboard page** built with Vue.js where is possible to track your sales: 
+
+<h2 align="center">
+  <p float="left">
+    <img src=".github/landing-5.png" alt="Image of web mobile friendly landing page" width="204" height="362">
+    <img src=".github/landing-6.png" alt="Image of web mobile friendly landing page" width="204" height="362">
+  </p>
+</h2>
+
 ### :headphones: Technologies
 
 <h2 align="center">
