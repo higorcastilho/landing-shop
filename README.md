@@ -59,6 +59,6 @@ It has also a **dashboard page** built with Vue.js where you can track your sale
 ### :pray: Acknowledgments
 
 All thanks to:
-- [Flaticon, Freepik, Smashicon and Roundicons](https://www.flaticon.com/) for the handsome svgs.
+- [Flaticon, Freepik, Smashicon and Roundicons](https://www.flaticon.com/), and also to [unDraw](https://undraw.co/illustrations)for the handsome svgs.
 - [Rodrigo Mango](https://www.youtube.com/channel/UCabelTt5YHot17aKb19VRNA) for the awesome classes about TDD and Clean Architecture.
 - [Rocketseat](https://www.youtube.com/watch?v=204ewU7NRO0&t=187s) for the tutorial on how animate the main title of the landing page.
