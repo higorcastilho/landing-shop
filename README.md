@@ -61,8 +61,8 @@ It has also a **dashboard page** built with Vue.js where you can track your sale
 
 To start running locally:
 
-- React front-end: clone [**this repository**](https://github.com/higorcastilho/coffee-landing) and issue **docker-compose up -d --build** on terminal. Go to http://localhost:3001.
-- Node.js back-end: clone [**this repository**](https://github.com/higorcastilho/coffee-backend) and issue **docker-compose up** on terminal. Server will be running on port 5858.
+- **React front-end**: clone [**this repository**](https://github.com/higorcastilho/coffee-landing) and issue **docker-compose up -d --build** on terminal. Go to http://localhost:3001.
+- **Node.js back-end**: clone [**this repository**](https://github.com/higorcastilho/coffee-backend) and issue **docker-compose up** on terminal. Server will be running on port 5858.
 
 ### :pray: Acknowledgments
 
