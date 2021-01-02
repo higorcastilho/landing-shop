@@ -3,6 +3,7 @@
 <p align="center">
   <a href="#hearts-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#headphones-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#running-running">Running</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#pray-acknowledgments">Acknowledgments</a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -20,10 +21,10 @@
 **Landing Shop App** is a simple web app which allows you selling a product easily by implementing some famous payment methods. For now, the only one working is Stripe.
 The **source code repositories** and the **deployed website** can be found here:
 
-- [Website](https://express-coffee-whey.netlify.app/) :arrow_upper_right: 
-- [Landing Page (React)](https://github.com/higorcastilho/coffee-landing) :eyeglasses: (How to run locally and +)
-- [Dashboard (Vue.js)](https://github.com/higorcastilho/coffee-dashboard) :pencil2: (How to run locally and +)
-- [Back-end (Node)](https://github.com/higorcastilho/coffee-backend) :gear: (How to run locally and +)
+- [**Website**](https://express-coffee-whey.netlify.app/) :arrow_upper_right: 
+- [**Landing Page (React)**](https://github.com/higorcastilho/coffee-landing) 
+- [**Dashboard (Vue.js)**](https://github.com/higorcastilho/coffee-dashboard) 
+- [**Back-end (Node)**](https://github.com/higorcastilho/coffee-backend)
 
 <h2 align="center">
   <p float="left">
@@ -55,6 +56,13 @@ It has also a **dashboard page** built with Vue.js where you can track your sale
 **Some strategies** to a faster page load: 
 - React.lazy and Suspense are being used to perform a faster page load.
 - SVG and WEBP extensions are prioritized.
+
+### :running: Running Locally
+
+To start running locally:
+
+- Node.js back-end: clone [**this repository**](https://github.com/higorcastilho/coffee-backend) and issue **docker-compose up** on terminal.
+- React front-end: clone [**this repository**](https://github.com/higorcastilho/coffee-landing) and issue **docker-compose up -d --build** on terminal.
 
 ### :pray: Acknowledgments
 
