@@ -48,8 +48,8 @@ It has also a **dashboard page** built with Vue.js where you can track your sale
 
 <h2 align="center">
   <p float="left">
-    <img src=".github/diagram.png" alt="Image of web mobile friendly landing page" width="390" height="300">
-    <img src=".github/gtmetrix_test.png" alt="Image of web mobile friendly landing page" width="410" height="230">
+    <img src=".github/diagram.png" alt="Image of web mobile friendly landing page" width="390" height="330">
+    <img src=".github/gtmetrix_test.png" alt="Image of web mobile friendly landing page" width="410" height="260">
   </p>
 </h2>
 
