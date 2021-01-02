@@ -57,7 +57,7 @@ It has also a **dashboard page** built with Vue.js where you can track your sale
 - React.lazy and Suspense are being used to perform a faster page load.
 - SVG and WEBP extensions are prioritized.
 
-### :running: Running Locally
+### :running: Running
 
 To start running locally:
 
