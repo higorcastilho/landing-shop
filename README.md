@@ -23,7 +23,8 @@ The **source code repositories** and the **deployed website** can be found here:
 
 - [**Website**](https://express-coffee-whey.netlify.app/) :arrow_upper_right: 
 - [**Landing Page (React)**](https://github.com/higorcastilho/coffee-landing) 
-- [**Dashboard (Vue.js)**](https://github.com/higorcastilho/coffee-dashboard) 
+- [**Dashboard (Vue.js)**](https://github.com/higorcastilho/coffee-dashboard)
+- [**Socketio Service**](https://github.com/higorcastilho/coffee-socketio)
 - [**Back-end (Node)**](https://github.com/higorcastilho/coffee-backend)
 
 <h2 align="center">
@@ -62,6 +63,7 @@ It has also a **dashboard page** built with Vue.js where you can track your sale
 To start running locally:
 
 - **React front-end**: clone [**this repository**](https://github.com/higorcastilho/coffee-landing) and issue **docker-compose up -d --build** on terminal. Go to http://localhost:3001.
+- **Socketio Service**: clone [**this repository**](https://github.com/higorcastilho/coffee-socketio) and issue **docker-compose up** on terminal. Server will be running on port 5000.
 - **Node.js back-end**: clone [**this repository**](https://github.com/higorcastilho/coffee-backend), set up your stripe secret key (env.example.js has most of the settings already) inside src/main/config/env.js and issue **docker-compose up** on terminal. Server will be running on port 5858.
 
 ### :pray: Acknowledgments
