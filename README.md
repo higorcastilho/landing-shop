@@ -24,7 +24,7 @@ The **source code repositories** and the **deployed website** can be found here:
 - [**Website**](https://express-coffee-whey.netlify.app/) :arrow_upper_right: 
 - [**Landing Page (React)**](https://github.com/higorcastilho/coffee-landing) 
 - [**Dashboard (Vue.js)**](https://github.com/higorcastilho/coffee-dashboard)
-- [**Socketio Service**](https://github.com/higorcastilho/coffee-socketio)
+- [**Socketio Service (Node)**](https://github.com/higorcastilho/coffee-socketio)
 - [**Back-end (Node)**](https://github.com/higorcastilho/coffee-backend)
 
 <h2 align="center">
