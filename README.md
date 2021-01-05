@@ -63,6 +63,7 @@ It has also a **dashboard page** built with Vue.js where you can track your sale
 To start running locally:
 
 - **React front-end**: clone [**this repository**](https://github.com/higorcastilho/coffee-landing) and issue **docker-compose up -d --build** on terminal. Go to http://localhost:3001.
+- **Dashboard front-end**: clone [**this repository**](https://github.com/higorcastilho/coffee-dashboard), run **npm install** and then **npm run serve**. Go to http://localhost:8080.
 - **Socketio Service**: clone [**this repository**](https://github.com/higorcastilho/coffee-socketio) and issue **docker-compose up** on terminal. Server will be running on port 5000.
 - **Node.js back-end**: clone [**this repository**](https://github.com/higorcastilho/coffee-backend), set up your stripe secret key (env.example.js has most of the settings already) inside src/main/config/env.js and issue **docker-compose up** on terminal. Server will be running on port 5858.
 
