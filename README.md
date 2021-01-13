@@ -39,7 +39,7 @@ The **source code repositories** and the **deployed website** can be found here:
 It has also a **dashboard page** built with Vue.js where you can track your sales: 
 
 <h2 align="center">
-    <img src=".github/coffee_dashboard_light.png" alt="Image of web mobile friendly landing page" width="204" height="380">![Alt Text](https://media2.giphy.com/media/Cps3kK9DeUfz0IXOeO/giphy.gif)<img src=".github/coffee_dashboard_dark.png" alt="Image of web mobile friendly landing page" width="204" height="380">
+    <img src=".github/coffee_dashboard_light.png" alt="Image of web mobile friendly landing page" width="204" height="380">![Alt Text](https://media0.giphy.com/media/h8fMIpDjoY0maKU9In/giphy.gif)https://media2.giphy.com/media/Cps3kK9DeUfz0IXOeO/giphy.gif)<img src=".github/coffee_dashboard_dark.png" alt="Image of web mobile friendly landing page" width="204" height="380">
 </h2>
 
 ### :headphones: Technologies
