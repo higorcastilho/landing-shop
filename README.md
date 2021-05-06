@@ -1,5 +1,3 @@
-<h3 align="center">:construction: Under construction :construction:</h3>
-
 <p align="center">
   <a href="#hearts-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#headphones-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
