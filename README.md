@@ -41,7 +41,7 @@ It has also a **dashboard page** built with Vue.js where you can track your sale
     <img src=".github/coffee_dashboard_dark.png" alt="Image of web mobile friendly landing page" width="204" height="380">
 </h2>
 
-### :headphones: Technologies
+### :headphones: Stack
 
 <h2 align="center">
   <p float="left">
